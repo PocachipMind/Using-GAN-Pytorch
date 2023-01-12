@@ -20,6 +20,7 @@ python main.py
 GAN 폴더속 main.py 파일을 실행합니다. 
 여기서 parse_args의 값을 변경해 줍니다.
 데이터가 저장된 폴더의 이름 ( object ) 를 변경해 주는것을 잊지 마십시오!
+ ( Default = clothes )
 
 ```sh
 python otherpy.py
