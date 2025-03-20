@@ -3,7 +3,8 @@
 
 이후 추가 강의를 들으며 2025년 좀 더 Gan의 모델과 유사하도록 구현되어 학습을 진행하는 코드를 추가하였습니다.
 
-# 1. Data 준비
+# Gan 폴더의 Gan 학습 
+## 1. Data 준비
 데이터는다음과 같은 양식으로 준비해주시면 됩니다.
 
 data/{--object}/imageSequence/00001.png
@@ -14,7 +15,7 @@ data/{--object}/imageSequence/00001.png
 데이터를 사용하였습니다.
 
 
-# 2. 실행 
+## 2. 실행 
 ```sh
 python main.py
 ```
